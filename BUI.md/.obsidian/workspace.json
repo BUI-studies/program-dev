@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "943516d3a910392e",
+        "id": "3f10fb9581d79a76",
         "type": "tabs",
         "children": [
           {
-            "id": "454f11709963345f",
+            "id": "3ad811f11f036e53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,6 +146,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "454f11709963345f",
-  "lastOpenFiles": []
+  "active": "76d2c304f0b6f10c",
+  "lastOpenFiles": [
+    "slack/1.png",
+    "slack/slack.md"
+  ]
 }
