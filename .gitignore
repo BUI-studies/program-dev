@@ -1,2 +1,7 @@
+.idea/**/*
 .obsidian/**/*
-.DS_Store
+.vscode/**/*
+
+**/.DS_Store
+*.xml
+*.iml
