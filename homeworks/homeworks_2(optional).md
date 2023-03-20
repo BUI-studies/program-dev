@@ -1,4 +1,4 @@
-## Homework 2 - Wakanda
+## Homework 2 (optional) - Batman
 
 Зверстати [макет](<https://www.figma.com/file/lMtmUlaaz87mgcd7SAQB7i/HW-2.1-%7C-Batman-(optional)?node-id=0%3A1&t=VX2WgZl8rLfiGQhH-1>).
 
