@@ -1,4 +1,4 @@
-## Homework 4 - Wakanda(grid)
+## Homework 4 - Wakanda (grid)
 
 Зверстати [макет](<https://www.figma.com/file/uNbF0S9mFdBgKWWpDhslZg/HW-2-%7C-Wakanda?node-id=0%3A1&t=Od34Z2HOcmlekDdI-0>).
 
