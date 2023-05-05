@@ -1,4 +1,4 @@
-## Homework 5 - Musik
+## Homework 6 - Musik animations
 
 Додати до [макету](<https://www.figma.com/file/O6qNl9HeA9ZDvwDNheZQfr/HW-5-%7C-Music-Concert?node-id=893%3A0&t=yVsft1ngqEprHegw-0>) анімацій.
 
