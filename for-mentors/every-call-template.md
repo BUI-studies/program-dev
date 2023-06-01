@@ -114,5 +114,6 @@
 ⏱️: 5 хвилин
 
 кожен з присутніх має заповнити 2 форми:
-1 - [форма зворотнього звʼязку](<(https://docs.google.com/forms/d/e/1FAIpQLSdEsm9kARr026fsyk2fbwpZfMAPpR61BrGPr5FhhxjjhGp4jw/viewform)>) - анонімна форма з можливістю оцінити як все пройшло. ментор бачить результати, це важливо для коригування пальшого руху групи та кожного особисто.
-2 - [форма сенкан](https://docs.google.com/forms/d/e/1FAIpQLSeU6gQy8NbNgsRvLuDLguuCdDZGrv5q7drXnkrYkxQMsaXbVw/viewform) - більше важлива для студентів, бо дозволяє підсумувати пройдений матеріал, закріпивши трошки краще нові нейронні звʼязки в головному мозку.
+
+1. [форма зворотнього звʼязку](<(https://docs.google.com/forms/d/e/1FAIpQLSdEsm9kARr026fsyk2fbwpZfMAPpR61BrGPr5FhhxjjhGp4jw/viewform)>) - анонімна форма з можливістю оцінити як все пройшло. ментор бачить результати, це важливо для коригування пальшого руху групи та кожного особисто.
+2. [форма сенкан](https://docs.google.com/forms/d/e/1FAIpQLSeU6gQy8NbNgsRvLuDLguuCdDZGrv5q7drXnkrYkxQMsaXbVw/viewform) - більше важлива для студентів, бо дозволяє підсумувати пройдений матеріал, закріпивши трошки краще нові нейронні звʼязки в головному мозку.
